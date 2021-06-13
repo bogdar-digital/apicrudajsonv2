@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ciencias básicas de la edu",
+        "adress": "sd",
+        "email": "descalona1619@conalepmex.edu.mx",
+        "phone": "7221510676"
+    },
+    {
+        "id": 3,
+        "nombre": "INDUSTRIAS OLEOQUIMI",
+        "adress": "dfgb",
+        "email": "admin@admin",
+        "phone": "7291435653"
+    }
+]

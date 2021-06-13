@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f58ff738-a1e4-40cb-bf33-90f0b6fe6a94/resourceGroups/Apicrud/providers/Microsoft.Web/sites/bogdarticketsweb"
+}
